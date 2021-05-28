@@ -1,6 +1,6 @@
 [user]
-	name = Marlon Richert
-	email = marlonrichert@users.noreply.github.com
+	name = Kieran McGrath
+	email = khmcgrath@gmail.com
 [core]
 	autocrlf = false
 	excludesfile = /Users/marlon/.gitignore_global
